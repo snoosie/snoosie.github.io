@@ -26,7 +26,6 @@ author_profile: true
 #### 2019
 
 1. Thomson, E. M., **Lee, R. L.**, & Bradley, B. A. (2019). Ground motion simulations of Hope fault earthquakes. *Bulletin of the New Zealand Society for Earthquake Engineering*, 52(4), 152-171. [[PDF]](https://lee-robin.github.io/files/Journal/Thomson_2020_HopeFaultSimulation_BNZSEE.pdf) [[Link]](https://doi.org/10.5459/bnzsee.52.4.152-171)
-
 2. Bellagamba, X., **Lee, R.**, & Bradley, B. A. (2019). A neural network for automated quality screening of ground motion records from small magnitude earthquakes. *Earthquake Spectra*, 35(4), 1637-1661. [[PDF]](https://lee-robin.github.io/files/Journal/Bellagamba_2019_GroundMotionClassificationNeuralNetwork_ES.pdf) [[Link]](https://doi.org/10.1193/122118EQS292M)
 
 #### 2018
