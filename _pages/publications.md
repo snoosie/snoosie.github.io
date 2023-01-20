@@ -22,7 +22,6 @@ author_profile: true
 - **Lee RL**, Bradley BA, Stafford PJ, Graves RW, Rodriguez-Marek A, Hybrid broadband ground motion simulation validation of small magnitude earthquakes in Canterbury, New Zealand. *Earthquake Spectra*, 36(2), 673–699. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2020_CanterburySmallMagnitudeSimulationValidation_ES.pdf) [[Link]](https://doi.org/10.1177/8755293019891718)
 - de la Torre C, Bradley BA, **Lee RL**. Modelling nonlinear site effects in physics-based ground motion simulations of the 2010-2011 Canterbury earthquake sequence. *Earthquake Spectra*, 36(2), 856–879. [[PDF]](https://lee-robin.github.io/files/Journal/delaTorre_2020_NonlinearSiteResponseCanterburySimulations_ES.pdf) [[Link]](https://doi.org/10.1177/8755293019891729)
 
-
 #### 2019
 
 1. Thomson, E. M., **Lee, R. L.**, & Bradley, B. A. (2019). Ground motion simulations of Hope fault earthquakes. *Bulletin of the New Zealand Society for Earthquake Engineering*, 52(4), 152-171. [[PDF]](https://lee-robin.github.io/files/Journal/Thomson_2020_HopeFaultSimulation_BNZSEE.pdf) [[Link]](https://doi.org/10.5459/bnzsee.52.4.152-171)
@@ -33,9 +32,8 @@ author_profile: true
 
 #### 2017
 
-1. **Lee, R. L.**, Bradley, B. A., Ghisetti, F. C., & Thomson, E. M. (2017). Development of a 3D Velocity Model of the Canterbury, New Zealand, Region for Broadband Ground‐Motion Simulation. *Bulletin of the Seismological Society of America*, 107(5), 2131-2150. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2017_CantVM_BSSA.pdf) [[Link]](https://doi.org/10.1785/0120160326)
-
-2. **Lee, R. L.**, Bradley, B. A., & McGann, C. R. (2017). 3D models of Quaternary-aged sedimentary successions within the Canterbury, New Zealand region. *New Zealand Journal of Geology and Geophysics*, 60(4), 320-340. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2017_QuaternaryModel_NZJGG.pdf) [[Link]](https://doi.org/10.1080/00288306.2017.1334671)
+- **Lee, R. L.**, Bradley, B. A., Ghisetti, F. C., & Thomson, E. M. (2017). Development of a 3D Velocity Model of the Canterbury, New Zealand, Region for Broadband Ground‐Motion Simulation. *Bulletin of the Seismological Society of America*, 107(5), 2131-2150. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2017_CantVM_BSSA.pdf) [[Link]](https://doi.org/10.1785/0120160326)
+- **Lee, R. L.**, Bradley, B. A., & McGann, C. R. (2017). 3D models of Quaternary-aged sedimentary successions within the Canterbury, New Zealand region. *New Zealand Journal of Geology and Geophysics*, 60(4), 320-340. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2017_QuaternaryModel_NZJGG.pdf) [[Link]](https://doi.org/10.1080/00288306.2017.1334671)
 
 3. Bradley, B. A., Bae, S. E., Polak, V., **Lee, R. L.**, Thomson, E. M., & Tarbali, K. (2017). Ground motion simulations of great earthquakes on the Alpine Fault: effect of hypocentre location and comparison with empirical modelling. *New Zealand Journal of Geology and Geophysics*, 60(3), 188-198. [[PDF]](https://lee-robin.github.io/files/Journal/Bradley_2017_GroundMotionSimulationAlpineFault_NZJGG.pdf) [[Link]](https://doi.org/10.1080/00288306.2017.1297313)
 
