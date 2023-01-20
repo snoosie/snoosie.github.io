@@ -22,6 +22,7 @@ author_profile: true
 - **Lee RL**, Bradley BA, Stafford PJ, Graves RW, Rodriguez-Marek A, Hybrid broadband ground motion simulation validation of small magnitude earthquakes in Canterbury, New Zealand. *Earthquake Spectra*, 36(2), 673–699. [[PDF]](https://lee-robin.github.io/files/Journal/Lee_2020_CanterburySmallMagnitudeSimulationValidation_ES.pdf) [[Link]](https://doi.org/10.1177/8755293019891718)
 - de la Torre C, Bradley BA, **Lee RL**. Modelling nonlinear site effects in physics-based ground motion simulations of the 2010-2011 Canterbury earthquake sequence. *Earthquake Spectra*, 36(2), 856–879. [[PDF]](https://lee-robin.github.io/files/Journal/delaTorre_2020_NonlinearSiteResponseCanterburySimulations_ES.pdf) [[Link]](https://doi.org/10.1177/8755293019891729)
 
+
 #### 2019
 
 1. Thomson, E. M., **Lee, R. L.**, & Bradley, B. A. (2019). Ground motion simulations of Hope fault earthquakes. *Bulletin of the New Zealand Society for Earthquake Engineering*, 52(4), 152-171. [[PDF]](https://lee-robin.github.io/files/Journal/Thomson_2020_HopeFaultSimulation_BNZSEE.pdf) [[Link]](https://doi.org/10.5459/bnzsee.52.4.152-171)
