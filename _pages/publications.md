@@ -43,27 +43,27 @@ author_profile: true
 
 <details>
     <summary>Conference Papers</summary>
-    - <a href="/files/ConferencePapers/Bradley_2018_SimulationBasedGmSimulationNzGeohazards_GEESDV.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Bradley_2020_Cybershake19p5_NZSEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Hutchinson_2021_ProgressOnNzgmdbNshm_NZSEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Hutchinson_2022_2021NZgroundmotiondatabase_NZSEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Kaiser_2016_GeoNetStationSiteCharacterization2015Update_NZSEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Kaiser_2021_WellingtonBasinUpdatePresentation_NZSEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Lee_2013_VerticalGroundMotionsCanterburyEarthquakes_NZSEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Lee_2014_OngoingDevelopmentCanterbury3DVelocityModel_NZSEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Lee_2015_3DgeologyBasedVelocityModelCanterbury_NZSEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Lee_2018_GmSimValidationCanterbury_NZSEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Lee_2018_ValidationGmCanterburySmallMw_GEESDV.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Lee_2019_TowardNzWideValidationBroadbandGmSim_PCEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Lee_2020_SourceModellingConsiderationsGmSimValidation_NZSEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Lee_2021_GmSimValidationModerateMagNzEvents_NZSEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Lee_2022_EvaluationGmmsNzDatabase_NZSEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Loghman_2021_ValidationGmSimulationsComplexStructuralResponse_NZSEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Neill_2019_ParameterUncertaintySensitivityAnalysis22Feb2011Eq_PCEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Neill_2021_GmSimValidationWUncertaintiesSmallMagCanterburyStudy_NZSEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Nguyen_2021_FullWaveformTomographySthIslandNz_NZSEE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Tarbali_2019_Cybershakev18p5NzPsha_7ICEGE.pdf" target="_blank"></a>
-    - <a href="/files/ConferencePapers/Tarbali_2019_Cybershakev18p5_PCEE.pdf" target="_blank"></a>
+    <a href="/files/ConferencePapers/Bradley_2018_SimulationBasedGmSimulationNzGeohazards_GEESDV.pdf" target="_blank">Bradley_2018_SimulationBasedGmSimulationNzGeohazards_GEESDV.pdf</a>
+    <a href="/files/ConferencePapers/Bradley_2020_Cybershake19p5_NZSEE.pdf" target="_blank">Bradley_2020_Cybershake19p5_NZSEE.pdf</a>
+    <a href="/files/ConferencePapers/Hutchinson_2021_ProgressOnNzgmdbNshm_NZSEE.pdf" target="_blank">Hutchinson_2021_ProgressOnNzgmdbNshm_NZSEE.pdf</a>
+    <a href="/files/ConferencePapers/Hutchinson_2022_2021NZgroundmotiondatabase_NZSEE.pdf" target="_blank">Hutchinson_2022_2021NZgroundmotiondatabase_NZSEE.pdf</a>
+    <a href="/files/ConferencePapers/Kaiser_2016_GeoNetStationSiteCharacterization2015Update_NZSEE.pdf" target="_blank">Kaiser_2016_GeoNetStationSiteCharacterization2015Update_NZSEE.pdf</a>
+    <a href="/files/ConferencePapers/Kaiser_2021_WellingtonBasinUpdatePresentation_NZSEE.pdf" target="_blank">Kaiser_2021_WellingtonBasinUpdatePresentation_NZSEE.pdf</a>
+    <a href="/files/ConferencePapers/Lee_2013_VerticalGroundMotionsCanterburyEarthquakes_NZSEE.pdf" target="_blank">Lee_2013_VerticalGroundMotionsCanterburyEarthquakes_NZSEE.pdf</a>
+    <a href="/files/ConferencePapers/Lee_2014_OngoingDevelopmentCanterbury3DVelocityModel_NZSEE.pdf" target="_blank">Lee_2014_OngoingDevelopmentCanterbury3DVelocityModel_NZSEE.pdf</a>
+    <a href="/files/ConferencePapers/Lee_2015_3DgeologyBasedVelocityModelCanterbury_NZSEE.pdf" target="_blank">Lee_2015_3DgeologyBasedVelocityModelCanterbury_NZSEE.pdf</a>
+    <a href="/files/ConferencePapers/Lee_2018_GmSimValidationCanterbury_NZSEE.pdf" target="_blank">Lee_2018_GmSimValidationCanterbury_NZSEE.pdf</a>
+    <a href="/files/ConferencePapers/Lee_2018_ValidationGmCanterburySmallMw_GEESDV.pdf" target="_blank">Lee_2018_ValidationGmCanterburySmallMw_GEESDV.pdf</a>
+    <a href="/files/ConferencePapers/Lee_2019_TowardNzWideValidationBroadbandGmSim_PCEE.pdf" target="_blank">Lee_2019_TowardNzWideValidationBroadbandGmSim_PCEE.pdf</a>
+    <a href="/files/ConferencePapers/Lee_2020_SourceModellingConsiderationsGmSimValidation_NZSEE.pdf" target="_blank">Lee_2020_SourceModellingConsiderationsGmSimValidation_NZSEE.pdf</a>
+    <a href="/files/ConferencePapers/Lee_2021_GmSimValidationModerateMagNzEvents_NZSEE.pdf" target="_blank">Lee_2021_GmSimValidationModerateMagNzEvents_NZSEE.pdf</a>
+    <a href="/files/ConferencePapers/Lee_2022_EvaluationGmmsNzDatabase_NZSEE.pdf" target="_blank">Lee_2022_EvaluationGmmsNzDatabase_NZSEE.pdf</a>
+    <a href="/files/ConferencePapers/Loghman_2021_ValidationGmSimulationsComplexStructuralResponse_NZSEE.pdf" target="_blank">Loghman_2021_ValidationGmSimulationsComplexStructuralResponse_NZSEE.pdf</a>
+    <a href="/files/ConferencePapers/Neill_2019_ParameterUncertaintySensitivityAnalysis22Feb2011Eq_PCEE.pdf" target="_blank">Neill_2019_ParameterUncertaintySensitivityAnalysis22Feb2011Eq_PCEE.pdf</a>
+    <a href="/files/ConferencePapers/Neill_2021_GmSimValidationWUncertaintiesSmallMagCanterburyStudy_NZSEE.pdf" target="_blank">Neill_2021_GmSimValidationWUncertaintiesSmallMagCanterburyStudy_NZSEE.pdf</a>
+    <a href="/files/ConferencePapers/Nguyen_2021_FullWaveformTomographySthIslandNz_NZSEE.pdf" target="_blank">Nguyen_2021_FullWaveformTomographySthIslandNz_NZSEE.pdf</a>
+    <a href="/files/ConferencePapers/Tarbali_2019_Cybershakev18p5NzPsha_7ICEGE.pdf" target="_blank">Tarbali_2019_Cybershakev18p5NzPsha_7ICEGE.pdf</a>
+    <a href="/files/ConferencePapers/Tarbali_2019_Cybershakev18p5_PCEE.pdf" target="_blank">Tarbali_2019_Cybershakev18p5_PCEE.pdf</a>
 
 
 </details>
