@@ -71,33 +71,33 @@ author_profile: true
 <details>
     <summary>Conference Posters</summary>
     <ul>
-        <li><a href="/files/ConferencePapers/Bellagamba_2018_GMClassification_QCAM_poster.pdf" target="_blank">Bellagamba_2018_GMClassification_QCAM_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Bradley_2015_CanterburyVelocityModelV1_SCEC_poster.pdf" target="_blank">Bradley_2015_CanterburyVelocityModelV1_SCEC_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Bradley_2019_Cybershake19p5_QCAMSCEC_poster.pdf" target="_blank">Bradley_2019_Cybershake19p5_QCAMSCEC_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Dupuis_2020_NNetGmClassification_QCAM_poster.pdf" target="_blank">Dupuis_2020_NNetGmClassification_QCAM_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Huang_2017_RealTimeGroundMotionSim_QCAM_poster.pdf" target="_blank">Huang_2017_RealTimeGroundMotionSim_QCAM_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Lee_2013_CanterburyVelocityModel_SCEC_poster.pdf" target="_blank">Lee_2013_CanterburyVelocityModel_SCEC_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Lee_2014_ProgressTowardCanterburyVelocityModelV1_SCEC_poster.pdf" target="_blank">Lee_2014_ProgressTowardCanterburyVelocityModelV1_SCEC_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Lee_2016_GMSVInversion_SCEC_poster.pdf" target="_blank">Lee_2016_GMSVInversion_SCEC_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Lee_2016_QualityFactorCorrelations_NZSEE_poster.pdf" target="_blank">Lee_2016_QualityFactorCorrelations_NZSEE_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Lee_2017_SystematicGmSimulationCanterburySmallMwEvents_QCAM_poster.pdf" target="_blank">Lee_2017_SystematicGmSimulationCanterburySmallMwEvents_QCAM_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Lee_2018_ValidationGmSimNzWideEqs_QCAM_poster.pdf" target="_blank">Lee_2018_ValidationGmSimNzWideEqs_QCAM_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Lee_2019_NzWideGmSimValidation_QCAMSCEC_poster.pdf" target="_blank">Lee_2019_NzWideGmSimValidation_QCAMSCEC_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Lee_2020_SourceConsiderationModMagGmSimValidation_QCAM_poster.pdf" target="_blank">Lee_2020_SourceConsiderationModMagGmSimValidation_QCAM_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Loghman_2020_GmSimValidationComplexSystems_QCAM_poster.pdf" target="_blank">Loghman_2020_GmSimValidationComplexSystems_QCAM_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Motha_2018_QcGmSimWorkflow_QCAM_poster.pdf" target="_blank">Motha_2018_QcGmSimWorkflow_QCAM_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Motha_2020_Cybershake20p11_QCAM_poster.pdf" target="_blank">Motha_2020_Cybershake20p11_QCAM_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Neill_2019_GmSimValidationWUncertainty_QCAMSCEC_poster.pdf" target="_blank">Neill_2019_GmSimValidationWUncertainty_QCAMSCEC_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Neill_2020_GmSimValidationWUncertainty_QCAM_poster.pdf" target="_blank">Neill_2020_GmSimValidationWUncertainty_QCAM_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Nguyen_2019_CanterburyFullWaveformTomography_QCAMSCEC_Poster.pdf" target="_blank">Nguyen_2019_CanterburyFullWaveformTomography_QCAMSCEC_Poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Nguyen_2020_CmtInversion3dVm_SouthIslandNZ_GSNZ_poster.pdf" target="_blank">Nguyen_2020_CmtInversion3dVm_SouthIslandNZ_GSNZ_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Nguyen_2020_WaveformTomographySthIsland_QCAM_poster.pdf" target="_blank">Nguyen_2020_WaveformTomographySthIsland_QCAM_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Nguyen_2020_waveformtomography_SouthIslandNZ_SCEC_poster.pdf" target="_blank">Nguyen_2020_waveformtomography_SouthIslandNZ_SCEC_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Paterson_2020_HikurangiCurvedGeometry_QCAM_poster.pdf" target="_blank">Paterson_2020_HikurangiCurvedGeometry_QCAM_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Schill_2020_NNetGmSimulation_QCAM_poster.pdf" target="_blank">Schill_2020_NNetGmSimulation_QCAM_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Thomson_2016_CantVM1VisualizationAndExtensions_NZSEE_poster.pdf" target="_blank">Thomson_2016_CantVM1VisualizationAndExtensions_NZSEE_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Thomson_2016_SthIslandVelocityModel_QCAM_poster.pdf" target="_blank">Thomson_2016_SthIslandVelocityModel_QCAM_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Thomson_2018_HopeFaultGmSimulation_SCEC_poster.pdf" target="_blank">Thomson_2018_HopeFaultGmSimulation_SCEC_poster.pdf</a></li>
-        <li><a href="/files/ConferencePapers/Vyas_2018_SiteSpecificHfSimulation_QCAM_poster.pdf" target="_blank">Vyas_2018_SiteSpecificHfSimulation_QCAM_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Bellagamba_2018_GMClassification_QCAM_poster.pdf" target="_blank">Bellagamba_2018_GMClassification_QCAM_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Bradley_2015_CanterburyVelocityModelV1_SCEC_poster.pdf" target="_blank">Bradley_2015_CanterburyVelocityModelV1_SCEC_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Bradley_2019_Cybershake19p5_QCAMSCEC_poster.pdf" target="_blank">Bradley_2019_Cybershake19p5_QCAMSCEC_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Dupuis_2020_NNetGmClassification_QCAM_poster.pdf" target="_blank">Dupuis_2020_NNetGmClassification_QCAM_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Huang_2017_RealTimeGroundMotionSim_QCAM_poster.pdf" target="_blank">Huang_2017_RealTimeGroundMotionSim_QCAM_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Lee_2013_CanterburyVelocityModel_SCEC_poster.pdf" target="_blank">Lee_2013_CanterburyVelocityModel_SCEC_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Lee_2014_ProgressTowardCanterburyVelocityModelV1_SCEC_poster.pdf" target="_blank">Lee_2014_ProgressTowardCanterburyVelocityModelV1_SCEC_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Lee_2016_GMSVInversion_SCEC_poster.pdf" target="_blank">Lee_2016_GMSVInversion_SCEC_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Lee_2016_QualityFactorCorrelations_NZSEE_poster.pdf" target="_blank">Lee_2016_QualityFactorCorrelations_NZSEE_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Lee_2017_SystematicGmSimulationCanterburySmallMwEvents_QCAM_poster.pdf" target="_blank">Lee_2017_SystematicGmSimulationCanterburySmallMwEvents_QCAM_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Lee_2018_ValidationGmSimNzWideEqs_QCAM_poster.pdf" target="_blank">Lee_2018_ValidationGmSimNzWideEqs_QCAM_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Lee_2019_NzWideGmSimValidation_QCAMSCEC_poster.pdf" target="_blank">Lee_2019_NzWideGmSimValidation_QCAMSCEC_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Lee_2020_SourceConsiderationModMagGmSimValidation_QCAM_poster.pdf" target="_blank">Lee_2020_SourceConsiderationModMagGmSimValidation_QCAM_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Loghman_2020_GmSimValidationComplexSystems_QCAM_poster.pdf" target="_blank">Loghman_2020_GmSimValidationComplexSystems_QCAM_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Motha_2018_QcGmSimWorkflow_QCAM_poster.pdf" target="_blank">Motha_2018_QcGmSimWorkflow_QCAM_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Motha_2020_Cybershake20p11_QCAM_poster.pdf" target="_blank">Motha_2020_Cybershake20p11_QCAM_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Neill_2019_GmSimValidationWUncertainty_QCAMSCEC_poster.pdf" target="_blank">Neill_2019_GmSimValidationWUncertainty_QCAMSCEC_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Neill_2020_GmSimValidationWUncertainty_QCAM_poster.pdf" target="_blank">Neill_2020_GmSimValidationWUncertainty_QCAM_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Nguyen_2019_CanterburyFullWaveformTomography_QCAMSCEC_Poster.pdf" target="_blank">Nguyen_2019_CanterburyFullWaveformTomography_QCAMSCEC_Poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Nguyen_2020_CmtInversion3dVm_SouthIslandNZ_GSNZ_poster.pdf" target="_blank">Nguyen_2020_CmtInversion3dVm_SouthIslandNZ_GSNZ_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Nguyen_2020_WaveformTomographySthIsland_QCAM_poster.pdf" target="_blank">Nguyen_2020_WaveformTomographySthIsland_QCAM_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Nguyen_2020_waveformtomography_SouthIslandNZ_SCEC_poster.pdf" target="_blank">Nguyen_2020_waveformtomography_SouthIslandNZ_SCEC_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Paterson_2020_HikurangiCurvedGeometry_QCAM_poster.pdf" target="_blank">Paterson_2020_HikurangiCurvedGeometry_QCAM_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Schill_2020_NNetGmSimulation_QCAM_poster.pdf" target="_blank">Schill_2020_NNetGmSimulation_QCAM_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Thomson_2016_CantVM1VisualizationAndExtensions_NZSEE_poster.pdf" target="_blank">Thomson_2016_CantVM1VisualizationAndExtensions_NZSEE_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Thomson_2016_SthIslandVelocityModel_QCAM_poster.pdf" target="_blank">Thomson_2016_SthIslandVelocityModel_QCAM_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Thomson_2018_HopeFaultGmSimulation_SCEC_poster.pdf" target="_blank">Thomson_2018_HopeFaultGmSimulation_SCEC_poster.pdf</a></li>
+        <li><a href="/files/ConferencePosters/Vyas_2018_SiteSpecificHfSimulation_QCAM_poster.pdf" target="_blank">Vyas_2018_SiteSpecificHfSimulation_QCAM_poster.pdf</a></li>
     </ul>
 </details>
