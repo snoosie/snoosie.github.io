@@ -42,5 +42,7 @@ author_profile: true
 
 ### Other Publications
 
-For conference papers, click on this [[Link]](https://github.com/lee-robin/lee-robin.github.io/tree/master/files/ConferencePapers)  
+For conference papers, click on this <a href="https://github.com/lee-robin/lee-robin.github.io/tree/master/files/ConferencePapers" target="_blank">Link</a>
+
+[Bradley_2018_SimulationBasedGmSimulationNzGeohazards_GEESDV.pdf](/files/ConferencePapers/Bradley_2018_SimulationBasedGmSimulationNzGeohazards_GEESDV.pdf)
 For conference posters, click on this [[Link]](https://github.com/lee-robin/lee-robin.github.io/tree/master/files/ConferencePosters)
