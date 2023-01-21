@@ -39,10 +39,35 @@ author_profile: true
 
 4. Stringer M, Bastin S, McGann CR, Cappellaro C, Kortbawi ME, McMahon R, Wotherspoon LM, Green RA, Aricheta J, Davis R, McGlynn L, Hargraves S, van Ballegooy S, Cubrinovski M, Bradley BA, Dick G, Bellagamba X, Foster K, Lai C, Ashfield D, Baki A, Zekkos A, **Lee R**, Ntritsos N. Geotechnical aspects of the 2016 Kaikoura Earthquake on the South Island of New Zealand.  *Bulletin of the New Zealand Society for Earthquake Engineering*. 2017, Vol 50. No. 2, pp. 117-141. [[PDF]](https://lee-robin.github.io/files/Journal/Stringer_2017_GeotechnicalAspectsKaikoura_BNZSEE.pdf) [[Link]](https://doi.org/10.5459/bnzsee.50.2.117-141)
 
-
 ### Other Publications
 
-For conference papers, click on this <a href="https://github.com/lee-robin/lee-robin.github.io/tree/master/files/ConferencePapers" target="_blank">Link</a>
+<details>
+    <summary>Conference Papers</summary>
+    - <a href="/files/ConferencePapers/Bradley_2018_SimulationBasedGmSimulationNzGeohazards_GEESDV.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Bradley_2020_Cybershake19p5_NZSEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Hutchinson_2021_ProgressOnNzgmdbNshm_NZSEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Hutchinson_2022_2021NZgroundmotiondatabase_NZSEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Kaiser_2016_GeoNetStationSiteCharacterization2015Update_NZSEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Kaiser_2021_WellingtonBasinUpdatePresentation_NZSEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Lee_2013_VerticalGroundMotionsCanterburyEarthquakes_NZSEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Lee_2014_OngoingDevelopmentCanterbury3DVelocityModel_NZSEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Lee_2015_3DgeologyBasedVelocityModelCanterbury_NZSEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Lee_2018_GmSimValidationCanterbury_NZSEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Lee_2018_ValidationGmCanterburySmallMw_GEESDV.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Lee_2019_TowardNzWideValidationBroadbandGmSim_PCEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Lee_2020_SourceModellingConsiderationsGmSimValidation_NZSEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Lee_2021_GmSimValidationModerateMagNzEvents_NZSEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Lee_2022_EvaluationGmmsNzDatabase_NZSEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Loghman_2021_ValidationGmSimulationsComplexStructuralResponse_NZSEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Neill_2019_ParameterUncertaintySensitivityAnalysis22Feb2011Eq_PCEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Neill_2021_GmSimValidationWUncertaintiesSmallMagCanterburyStudy_NZSEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Nguyen_2021_FullWaveformTomographySthIslandNz_NZSEE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Tarbali_2019_Cybershakev18p5NzPsha_7ICEGE.pdf" target="_blank"></a>
+    - <a href="/files/ConferencePapers/Tarbali_2019_Cybershakev18p5_PCEE.pdf" target="_blank"></a>
 
-[Bradley_2018_SimulationBasedGmSimulationNzGeohazards_GEESDV.pdf](/files/ConferencePapers/Bradley_2018_SimulationBasedGmSimulationNzGeohazards_GEESDV.pdf)
+
+</details>
+
+
+
 For conference posters, click on this [[Link]](https://github.com/lee-robin/lee-robin.github.io/tree/master/files/ConferencePosters)
