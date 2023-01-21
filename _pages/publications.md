@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<style>
+    li {font-size: 0.8em;}
+</style>
 
 ### Journal Publications
 
